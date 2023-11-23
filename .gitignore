@@ -1,1 +1,2 @@
 git lfs track "*.uasset"
+git add .gitattributes
