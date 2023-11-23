@@ -1,5 +1,6 @@
 # SlimeParty
 ITA:
+
 Un gioco Lo-Fi piccolo e rilassante realizzato per Game.Off 2023
 
 Ciao a tutti mi chiamo Manuel ma il mio Alias ​​professionale è Ossified e sono responsabile di OssifiedGames, per ora sono una ditta individuale ma spero di crescere con il tempo e di realizzare il sogno della mia vita: creare un'azienda di videogiochi e distribuire giochi meravigliosi .
@@ -24,6 +25,7 @@ Con affetto: Ossified.
 
 
 ENG:
+
 A Small and relaxing Lo-Fi game made for the Game.Off 2023
 
 Hi everyone my name is Manuel but my professional Alias is Ossified and i am in charge of OssifiedGames, for now i am an individual company but i hope to grow with time and start the dream of my life: create a videogame company and deliver wonderful games.
